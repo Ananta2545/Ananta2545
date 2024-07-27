@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **React js, Next js**
 
+- 📚 3rd year student at Netaji Subhash Engineering College
+
 - 💬 Ask me about **HTML, CSS, JS ,python, c , c++**
 
 - 📫 How to reach me **chatterjeeanata091@gmail.com**
