@@ -7,6 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+
+
+
 - 🌱 I’m currently learning **React js, Next js**
 
 - 📚 3rd year student at Netaji Subhash Engineering College
@@ -26,6 +29,8 @@
 <a href="https://www.leetcode.com/ananta 2545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ananta 2545" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/chatterjeeza8b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chatterjeeza8b" height="30" width="40" /></a>
 </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ananta2545" alt="Ananta2545" /></a> </p>
 
 [![An image of @ananta2545's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ananta2545)](https://holopin.io/@ananta2545)
 
