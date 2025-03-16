@@ -14,7 +14,7 @@
 
 - 📚 3rd year student at Netaji Subhash Engineering College
 
-- 💬 Ask me about **HTML, CSS, JS ,python, c , c++, React js, node, express, ejs**
+- 💬 Ask me about **HTML, CSS, JS ,python, c , c++, React js, node, express, ejs,,SQL,mongoDb,postgreSQL,Privy,drizzle,IOT,machine learning**
 
 - 📫 How to reach me **chatterjeeanata091@gmail.com**
 
